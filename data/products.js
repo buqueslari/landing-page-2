@@ -23,6 +23,27 @@ export const products = [
       "Buquês"
     ]
   },
+      {
+    "title": "Café da Manhã CASAL (caixote claro)",
+    "price": 159.00,
+    "oldPrice": 199.99,
+    "images": [
+      "https://amandafloricultura.com/wp-content/uploads/2025/03/18.png",
+    ],
+    "description": "",
+    "id": 245478950040714,
+    "shipping": false,
+    "isOnSale": false,
+    "inStock": true,
+    "tabFilterOptions": [
+      "Novidades",
+      "Promoção"
+    ],
+    "tabFilterOptions2": [
+      "Dia dos Namorados",
+      "Buquês"
+    ]
+  },
   {
     "title": "Cesta de Café para Uma Pessoa",
     "price": 119.99,
