@@ -304,6 +304,28 @@ export const products = [
       "Buquês",
     ]
   },
+    {
+    "title": "Buquê de Girassóis Noite Estrelada Van Gogh",
+    "price": 120.99,
+    "oldPrice": 200.99,
+    "images": [
+      "https://mundodasflores.com/wp-content/uploads/2025/04/32080gg1.webp",
+      "https://mundodasflores.com/wp-content/uploads/2025/04/32080gg1.webp"
+    ],
+    "description": "",
+    "id": 30003300714,
+    "shipping": false,
+    "isOnSale": false,
+    "inStock": true,
+    "tabFilterOptions": [
+      "Novidades",
+      "Promoção"
+    ],
+    "tabFilterOptions2": [
+      "Dia dos Namorados",
+      "Buquês",
+    ]
+  },
   {
     "title": "Buquê de 30 Rosas Azuis com Gypsophila",
     "price": 139.99,
