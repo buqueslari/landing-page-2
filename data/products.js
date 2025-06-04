@@ -23,6 +23,27 @@ export const products = [
       "Buquês"
     ]
   },
+    {
+    "title": "Cesta O Amor Está no Ar, Trio de Rosas + Ursinho + Chocolates",
+    "price": 99.99,
+    "oldPrice": 119.99,
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/005/451/133/products/dia-dos-namorados-site-2024-3-44794ee2c60d15913017327334655506-1024-1024.png",
+    ],
+    "description": "",
+    "id": 231200007114,
+    "shipping": false,
+    "isOnSale": false,
+    "inStock": true,
+    "tabFilterOptions": [
+      "Novidades",
+      "Promoção"
+    ],
+    "tabFilterOptions2": [
+      "Dia dos Namorados",
+      "Buquês",
+    ]
+  },
      {
     "title": "Buque 12 Rosas Vermelhas e Caixa de bombom",
     "price": 79.99,
