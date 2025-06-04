@@ -23,6 +23,28 @@ export const products = [
       "Buquês"
     ]
   },
+   {
+    "title": "Kit Presente Cesta - Dia dos Namorados ",
+    "price": 119.99,
+    "oldPrice": 205.99,
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/003/222/795/products/5125819d8ca8e0ce831f0f177648c574-8cceb6fdb0af99cbc717170239302872-640-0.png",
+      "https://acdn-us.mitiendanube.com/stores/003/222/795/products/5125819d8ca8e0ce831f0f177648c574-8cceb6fdb0af99cbc717170239302872-640-0.png"
+    ],
+    "description": "",
+    "id": 2004075514,
+    "shipping": false,
+    "isOnSale": false,
+    "inStock": true,
+    "tabFilterOptions": [
+      "Novidades",
+      "Promoção"
+    ],
+    "tabFilterOptions2": [
+      "Dia das Mães",
+      "Buquês"
+    ]
+  },
   {
     "title": "Cesta de Aniversário com chocolate e Flor",
     "price": 129.99,
