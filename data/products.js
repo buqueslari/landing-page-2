@@ -36,7 +36,7 @@ export const products = [
     "isOnSale": false,
     "inStock": true,
     "tabFilterOptions": [
-      "Novidades",
+      "Dia dos Namorados",
       "Promoção"
     ],
     "tabFilterOptions2": [
