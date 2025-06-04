@@ -1,7 +1,29 @@
 import { isabelaflores } from "./isabelaflores";
 
 export const products = [
-   {
+    {
+    "title": "Cesta Café da Manhã Amor de Namorado",
+    "price": 119.99,
+    "oldPrice": 199.99,
+    "images": [
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSlwFrxLnpJlgt-qt5ZckbemyDI_cUsYqUKiMVdONMcS75y_4TiK6ZQKDcNgviEMm9gq4Ixsr0F2ITPkcpNvpsGyUlPouNAKde-ugdB-CM",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSlwFrxLnpJlgt-qt5ZckbemyDI_cUsYqUKiMVdONMcS75y_4TiK6ZQKDcNgviEMm9gq4Ixsr0F2ITPkcpNvpsGyUlPouNAKde-ugdB-CM"
+    ],
+    "description": "",
+    "id": 245450040714,
+    "shipping": false,
+    "isOnSale": false,
+    "inStock": true,
+    "tabFilterOptions": [
+      "Novidades",
+      "Promoção"
+    ],
+    "tabFilterOptions2": [
+      "Dia dos Namorados",
+      "Buquês"
+    ]
+  },
+  {
     "title": "Cesta de Café para Uma Pessoa",
     "price": 119.99,
     "oldPrice": 205.99,
