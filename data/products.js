@@ -23,6 +23,27 @@ export const products = [
       "Buquês"
     ]
   },
+     {
+    "title": "Buque 12 Rosas Vermelhas e Caixa de bombom",
+    "price": 79.99,
+    "oldPrice": 119.99,
+    "images": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTeL2N3MWyI43rtWFXyK6fFsVNvT9I0ePVotUeskTF_VchPDVfopBIp5Lxcx37_1CDgLcmMVXt7GjuydXovH0jXn8mvGCz-MyBqKZUozE9rXyuTZm3QFA-JBg",
+    ],
+    "description": "",
+    "id": 200400909714,
+    "shipping": false,
+    "isOnSale": false,
+    "inStock": true,
+    "tabFilterOptions": [
+      "Novidades",
+      "Promoção"
+    ],
+    "tabFilterOptions2": [
+      "Dia das Mães",
+      "Buquês"
+    ]
+  },
     {
     "title": "Caixa Cesta de Coração - Dia dos Namorados",
     "price": 109.99,
