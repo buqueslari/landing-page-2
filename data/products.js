@@ -24,6 +24,28 @@ export const products = [
     ]
   },
       {
+    "title": "Buquê de Tulipas Naturais",
+    "price": 119.99,
+    "oldPrice": 180.99,
+    "images": [
+      "https://mundodasflores.com/wp-content/uploads/2025/04/1734672420_41321841677b12d0072a.webp.webp",
+      "https://mundodasflores.com/wp-content/uploads/2025/04/1734672420_41321841677b12d0072a.webp.webp"
+    ],
+    "description": "",
+    "id": 245450040714,
+    "shipping": false,
+    "isOnSale": false,
+    "inStock": true,
+    "tabFilterOptions": [
+      "Novidades",
+      "Promoção"
+    ],
+    "tabFilterOptions2": [
+      "Dia dos Namorados",
+      "Buquês"
+    ]
+  },
+      {
     "title": "Café da Manhã CASAL (caixote claro)",
     "price": 159.00,
     "oldPrice": 199.99,
