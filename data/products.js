@@ -19,7 +19,7 @@ export const products = [
       "Promoção"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Buquês"
     ]
   },
@@ -40,7 +40,7 @@ export const products = [
       "Promoção"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Buquês"
     ]
   },
@@ -62,7 +62,7 @@ export const products = [
       "Promoção"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Buquês"
     ]
   },
@@ -84,7 +84,7 @@ export const products = [
       "Promoção"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Buquês"
     ]
   },
@@ -105,7 +105,7 @@ export const products = [
       "Promoção"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Buquês",
     ]
   },
@@ -127,7 +127,7 @@ export const products = [
       "Promoção"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Buquês",
     ]
   },
@@ -149,7 +149,7 @@ export const products = [
       "Promoção"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Buquês",
     ]
   },
@@ -170,7 +170,7 @@ export const products = [
       "Promoção"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Buquês",
     ]
   },
@@ -192,7 +192,7 @@ export const products = [
       "Promoção"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Buquês",
     ]
   },
@@ -214,7 +214,7 @@ export const products = [
       "Promoção"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Buquês",
     ]
   },
@@ -236,7 +236,7 @@ export const products = [
       "Promoção"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Buquês",
     ]
   },
@@ -258,7 +258,7 @@ export const products = [
       "Promoção"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Buquês",
     ]
   },
@@ -280,7 +280,7 @@ export const products = [
       "Promoção"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Buquês",
     ]
   },
@@ -301,7 +301,7 @@ export const products = [
       "Promoção"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Buquês",
     ]
   },
@@ -323,7 +323,7 @@ export const products = [
       "Promoção"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
     ]
   },
   {
@@ -344,7 +344,7 @@ export const products = [
       "Promoção"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
     ]
   },
   {
@@ -365,7 +365,7 @@ export const products = [
       "Promoção"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
     ]
   },
   {
@@ -382,12 +382,12 @@ export const products = [
     "isOnSale": false,
     "inStock": true,
     "tabFilterOptions": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Promoção",
       "Buquês"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Buquês"
     ]
   },
@@ -405,12 +405,12 @@ export const products = [
     "isOnSale": false,
     "inStock": true,
     "tabFilterOptions": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Promoção",
       "Buquês"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Buquês"
     ]
   },
@@ -428,12 +428,12 @@ export const products = [
     "isOnSale": false,
     "inStock": true,
     "tabFilterOptions": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Promoção",
       "Buquês"
     ],
     "tabFilterOptions2": [
-      "Dia das Mães",
+      "Dia dos Namorados",
       "Buquês"
     ]
   },
@@ -934,7 +934,7 @@ export const products = [
     addToCart: "Adicionar Rápido",
     countdown: 1007500,
     inStock: true,
-    tabFilterOptions2: ["Promoção", "Dia das Mães"],
+    tabFilterOptions2: ["Promoção", "Dia dos Namorados"],
     tabFilterOptions: ["Bebidas", "Promoção", "Presentes"],
     description: "Desfrute do melhor da cervejaria Paulistânia com o Kit Marco Zero, que inclui duas cervejas artesanais e uma taça especial. Ideal para apreciadores de cervejas que valorizam qualidade e sabor. Perfeito para presentear ou para momentos de degustação, o Kit Paulistânia Marco Zero proporciona uma experiência única e sofisticada no universo das cervejas artesanais.",
   },
@@ -1230,7 +1230,7 @@ export const presentes = [
     oldPrice: 169.0,
     isOnSale: false,
     inStock: true,
-    tabFilterOptions2: ["Promoção", "Dia das Mães"],
+    tabFilterOptions2: ["Promoção", "Dia dos Namorados"],
     tabFilterOptions: ["Orquídeas", "Promoção"],
     description: "A Orquídea Phalaenopsis Pink é perfeita para adicionar beleza e elegância ao seu espaço. Com pétalas rosas delicadas e vibrantes, esta orquídea é ideal para decorações sofisticadas e como presente encantador para qualquer ocasião especial. Sua durabilidade e facilidade de cuidado fazem dela uma ótima opção tanto para iniciantes quanto para entusiastas de plantas.",
   },

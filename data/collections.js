@@ -3,7 +3,7 @@ export const collections = [
     imgSrc: "https://www.isabelaflores.com/media/catalog/product/a/l/alta-230-0.webp",
     alt: "collection-img",
     href: "/shop/Dia-das-Mães",
-    title: "Dia das Mães",
+    title: "Dia dos Namorados",
     count: "12 items",
   },
   {
