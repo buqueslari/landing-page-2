@@ -23,6 +23,28 @@ export const products = [
       "Buquês"
     ]
   },
+    {
+    "title": "Caixa Cesta de Coração - Dia dos Namorados",
+    "price": 109.99,
+    "oldPrice": 200.99,
+    "images": [
+      "https://patipiva.com.br/cdn/shop/files/2822_CX_CESTA_CORACAO_VERMELHA_3.jpg?v=1748292784&width=810",
+      "https://patipiva.com.br/cdn/shop/files/2822_CX_CESTA_CORACAO_VERMELHA_3.jpg?v=1748292784&width=810"
+    ],
+    "description": "",
+    "id": 20040112714,
+    "shipping": false,
+    "isOnSale": false,
+    "inStock": true,
+    "tabFilterOptions": [
+      "Novidades",
+      "Promoção"
+    ],
+    "tabFilterOptions2": [
+      "Dia das Mães",
+      "Buquês"
+    ]
+  },
    {
     "title": "Kit Presente Cesta - Dia dos Namorados ",
     "price": 119.99,
