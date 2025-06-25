@@ -570,7 +570,6 @@ export const products = [
     "price": 188.92999999999998,
     "oldPrice": 287.07257868946664,
     "images": [
-      "https://www.isabelaflores.com/media/catalog/product/a/l/alta-54592-0.webp",
       "https://www.isabelaflores.com/media/catalog/product/a/l/alta-54592-1.jpg"
     ],
     "description": "",
@@ -591,7 +590,6 @@ export const products = [
     "price": 149.92999999999998,
     "oldPrice": 200.0200677465979,
     "images": [
-      "https://www.isabelaflores.com/media/catalog/product/a/l/alta-54591-0.webp",
       "https://www.isabelaflores.com/media/catalog/product/a/l/alta-54591-1.jpg"
     ],
     "description": "",
@@ -608,7 +606,7 @@ export const products = [
     ]
   },
   {
-    "title": "Flor da Fortuna Laranja e Cesta com Ovo de Páscoa Sonho de Valsa e Bombons",
+    "title": "",
     "price": 99.93,
     "oldPrice": 198.40810187392108,
     "images": [
