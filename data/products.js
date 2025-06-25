@@ -550,7 +550,6 @@ export const products = [
     "price": 199.92999999999995,
     "oldPrice": 299.3107084307127,
     "images": [
-      "https://www.isabelaflores.com/media/catalog/product/a/l/alta-54593-0.webp",
       "https://www.isabelaflores.com/media/catalog/product/a/l/alta-54593-1.jpg"
     ],
     "description": "",
