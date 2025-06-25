@@ -14,7 +14,7 @@ export const collections = [
     count: "12 items",
   },
   {
-    imgSrc: "https://www.isabelaflores.com/media/catalog/product/a/l/alta-284-1.webp",
+    imgSrc: "https://www.isabelaflores.com/media/catalog/product/a/l/alta-287-0.webp",
     alt: "collection-img",
     href: "/shop/cesta",
     title: "Cestas",
