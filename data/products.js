@@ -50,7 +50,7 @@ export const products = [
     "price": 159.00,
     "oldPrice": 199.99,
     "images": [
-      "https://amandafloricultura.com/wp-content/uploads/2025/03/18.png",
+      "https://julianafloricultura.com/wp-content/uploads/2025/06/933dad2195301ca4af1cb56761a2fc32.webp",
     ],
     "description": "",
     "id": 245478950040714,
