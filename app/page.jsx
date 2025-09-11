@@ -33,7 +33,7 @@ export const metadata = {
   alternates: {
     canonical: "https://www.carolineflores.shop/",
   },
-  keywords: ["Caroline Flores", "Lari Buquês", "Floricultura", "Flores", "Buquês", "Arranjos florais", "São Paulo", "SP", "Presentes", "Casamentos", "Eventos", "Decoração", "Flores frescas", "Rosas", "Orquídeas", "Entrega de flores"],
+  keywords: ["Caroline Flores", "Caroline Flores", "Floricultura", "Flores", "Buquês", "Arranjos florais", "São Paulo", "SP", "Presentes", "Casamentos", "Eventos", "Decoração", "Flores frescas", "Rosas", "Orquídeas", "Entrega de flores"],
   authors: [{ name: "Caroline Flores", url: "https://www.carolineflores.shop/" }],
 };
 export default function Home() {
