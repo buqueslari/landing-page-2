@@ -10,8 +10,8 @@ import Header2 from "@/components/headers/Header2";
 import Collections from "@/components/homes/home-1/Collections";
 
 export const metadata = {
-  title: "Lorena Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
-  description: "A Lorena Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
+  title: "Caroline Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
+  description: "A Caroline Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
   viewport: "width=device-width, initial-scale=1.0",
   themeColor: "#FFFFFF",
   icons: {
@@ -19,11 +19,11 @@ export const metadata = {
   },
   openGraph: {
     locale: "pt-BR",
-    title: "Lorena Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
-    siteName: "Lorena Flores",
+    title: "Caroline Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
+    siteName: "Caroline Flores",
     type: "website",
-    description: "A Lorena Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
-    url: "https://www.dayfloricultura.com/",
+    description: "A Caroline Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
+    url: "https://www.carolineflores.shop/",
     images: [
       {
         url: "/images/logo/logo.png",
@@ -31,10 +31,10 @@ export const metadata = {
     ],
   },
   alternates: {
-    canonical: "https://www.dayfloricultura.com/",
+    canonical: "https://www.carolineflores.shop/",
   },
-  keywords: ["Lorena Flores", "Lari Buquês", "Floricultura", "Flores", "Buquês", "Arranjos florais", "São Paulo", "SP", "Presentes", "Casamentos", "Eventos", "Decoração", "Flores frescas", "Rosas", "Orquídeas", "Entrega de flores"],
-  authors: [{ name: "Lari Flores", url: "https://www.dayfloricultura.com/" }],
+  keywords: ["Caroline Flores", "Lari Buquês", "Floricultura", "Flores", "Buquês", "Arranjos florais", "São Paulo", "SP", "Presentes", "Casamentos", "Eventos", "Decoração", "Flores frescas", "Rosas", "Orquídeas", "Entrega de flores"],
+  authors: [{ name: "Caroline Flores", url: "https://www.carolineflores.shop/" }],
 };
 export default function Home() {
   return (
