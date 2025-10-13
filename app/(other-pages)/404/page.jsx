@@ -2,8 +2,8 @@ import Image from "next/image";
 import React from "react";
 import Link from "next/link";
 export const metadata = {
-  title: "Page Not Found || Caroline Flores - Multipurpose React Nextjs eCommerce Template",
-  description: "Caroline Flores - Multipurpose React Nextjs eCommerce Template",
+  title: "Page Not Found || Alice Flores - Multipurpose React Nextjs eCommerce Template",
+  description: "Alice Flores - Multipurpose React Nextjs eCommerce Template",
 };
 
 export default function page() {
