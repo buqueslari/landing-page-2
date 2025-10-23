@@ -10,8 +10,8 @@ import Header2 from "@/components/headers/Header2";
 import Collections from "@/components/homes/home-1/Collections";
 
 export const metadata = {
-  title: "Alice Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
-  description: "A Alice Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
+  title: "Suellen Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
+  description: "A Suellen Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
   viewport: "width=device-width, initial-scale=1.0",
   themeColor: "#FFFFFF",
   icons: {
@@ -19,11 +19,11 @@ export const metadata = {
   },
   openGraph: {
     locale: "pt-BR",
-    title: "Alice Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
-    siteName: "Alice Flores",
+    title: "Suellen Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
+    siteName: "Suellen Flores",
     type: "website",
-    description: "A Alice Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
-    url: "https://www.aliceflores.shop/",
+    description: "A Suellen Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
+    url: "https://www.Suellenflores.shop/",
     images: [
       {
         url: "/images/logo/logo.png",
@@ -31,10 +31,10 @@ export const metadata = {
     ],
   },
   alternates: {
-    canonical: "https://www.aliceflores.shop/",
+    canonical: "https://www.Suellenflores.shop/",
   },
-  keywords: ["Alice Flores", "Alice Flores", "Floricultura", "Flores", "Buquês", "Arranjos florais", "São Paulo", "SP", "Presentes", "Casamentos", "Eventos", "Decoração", "Flores frescas", "Rosas", "Orquídeas", "Entrega de flores"],
-  authors: [{ name: "Alice Flores", url: "https://www.aliceflores.shop/" }],
+  keywords: ["Suellen Flores", "Suellen Flores", "Floricultura", "Flores", "Buquês", "Arranjos florais", "São Paulo", "SP", "Presentes", "Casamentos", "Eventos", "Decoração", "Flores frescas", "Rosas", "Orquídeas", "Entrega de flores"],
+  authors: [{ name: "Suellen Flores", url: "https://www.Suellenflores.shop/" }],
 };
 export default function Home() {
   return (

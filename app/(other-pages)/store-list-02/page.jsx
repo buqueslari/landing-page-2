@@ -6,8 +6,8 @@ import StoreLocations2 from "@/components/otherPages/StoreLocations2";
 import React from "react";
 
 export const metadata = {
-  title: "Store List 02 || Alice Flores - Multipurpose React Nextjs eCommerce Template",
-  description: "Alice Flores - Multipurpose React Nextjs eCommerce Template",
+  title: "Store List 02 || Suellen Flores - Multipurpose React Nextjs eCommerce Template",
+  description: "Suellen Flores - Multipurpose React Nextjs eCommerce Template",
 };
 
 export default function page() {
