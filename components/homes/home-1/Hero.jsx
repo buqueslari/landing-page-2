@@ -6,7 +6,7 @@ import Image from "next/image";
 export default function Hero() {
   function redirecionarParaWhatsApp() {
     const telefone = "5511970612954";
-    let mensagem = "Olá, Suellen! 😊 Gostaria de ver o catálogo, por favor.";
+    let mensagem = "Olá, Maria! 😊 Gostaria de ver o catálogo, por favor.";
 
     const mensagemCodificada = encodeURIComponent(mensagem);
     const url = `https://wa.me/${telefone}?text=${mensagemCodificada}`;
