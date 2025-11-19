@@ -146,7 +146,7 @@ export default function DetailsPreOrder({ product }) {
                             </div>
                             <div className="line-bt" />
                             <div>
-                              <h6>Fashion Suellen Flores</h6>
+                              <h6>Fashion Maria Flores</h6>
                               <p>Pickup available. Usually ready in 24 hours</p>
                             </div>
                             <div>
@@ -164,7 +164,7 @@ export default function DetailsPreOrder({ product }) {
                       </li>
                       <li>
                         <p className="text-caption-1">Vendor:</p>
-                        <p className="text-caption-1 text-1">Suellen Flores</p>
+                        <p className="text-caption-1 text-1">Maria Flores</p>
                       </li>
                       <li>
                         <p className="text-caption-1">Available:</p>

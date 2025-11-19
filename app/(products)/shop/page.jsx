@@ -5,8 +5,8 @@ import React from "react";
 
 export async function generateMetadata() {
   return {
-    title: `Todos Produtos || Suellen Flores`,
-    description: `Veja Todos os Produtos da Suellen Flores.`,
+    title: `Todos Produtos || Maria Flores`,
+    description: `Veja Todos os Produtos da Maria Flores.`,
   };
 }
 
