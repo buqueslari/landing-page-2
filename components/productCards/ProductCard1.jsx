@@ -15,7 +15,7 @@ export default function ProductCard1({ product, gridClass = "" }) {
   }, [product]);
 
   function redirecionarParaWhatsApp() {
-    const telefone = "85996794744";
+    const telefone = "8596794744";
     let mensagem = "Olá, gostaria desses produtos:\n\n";
     let total = 0;
 
