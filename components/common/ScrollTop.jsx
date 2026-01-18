@@ -7,7 +7,7 @@ export default function ScrollTop({ hasPaddingBottom = false }) {
   const [isButtonVisible] = useState(true);
 
   const handleScrollToTop = () => {
-    const telefone = "5598988554061";
+    const telefone = "551151520313";
     let mensagem = "Olá, Suellen! 😊 Gostaria de ver o catálogo, por favor.";
 
     const mensagemCodificada = encodeURIComponent(mensagem);
@@ -21,4 +21,4 @@ export default function ScrollTop({ hasPaddingBottom = false }) {
       <FaWhatsapp size={50} />
     </button>
   );
-}
+}fl
