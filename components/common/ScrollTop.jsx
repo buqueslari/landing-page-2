@@ -21,4 +21,4 @@ export default function ScrollTop({ hasPaddingBottom = false }) {
       <FaWhatsapp size={50} />
     </button>
   );
-}fl
+}
