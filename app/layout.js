@@ -122,17 +122,17 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        {/* Google Tag Manager Script */}
+        {/* Suellen Floricultura Manager Script */}
         <Script
           strategy="afterInteractive"
-          src="https://www.googletagmanager.com/gtag/js?id=AW-17907037972"
+          src="https://www.googletagmanager.com/gtag/js?id=AW-17899645764"
         />
         <Script id="google-analytics" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'AW-17907037972');
+            gtag('config', 'AW-17899645764');
           `}
         </Script>
       </head>
