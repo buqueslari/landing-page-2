@@ -7,8 +7,8 @@ import Link from "next/link";
 import React from "react";
 
 export const metadata = {
-  title: "My Account || Gaby Floricultura - Multipurpose React Nextjs eCommerce Template",
-  description: "Gaby Floricultura - Multipurpose React Nextjs eCommerce Template",
+  title: "My Account || Gaby Flores - Multipurpose React Nextjs eCommerce Template",
+  description: "Gaby Flores - Multipurpose React Nextjs eCommerce Template",
 };
 
 export default function page() {

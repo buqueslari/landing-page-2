@@ -5,8 +5,8 @@ import Faqs from "@/components/otherPages/Faqs";
 import React from "react";
 import Link from "next/link";
 export const metadata = {
-  title: "Faqs || Gaby Floricultura - Multipurpose React Nextjs eCommerce Template",
-  description: "Gaby Floricultura - Multipurpose React Nextjs eCommerce Template",
+  title: "Faqs || Gaby Flores - Multipurpose React Nextjs eCommerce Template",
+  description: "Gaby Flores - Multipurpose React Nextjs eCommerce Template",
 };
 
 export default function page() {
