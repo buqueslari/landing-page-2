@@ -8,8 +8,8 @@ import { allProducts } from "@/data/products";
 import React from "react";
 
 export const metadata = {
-  title: "Product Fixed Scroll || Suellen Floricultura - Multipurpose React Nextjs eCommerce Template",
-  description: "Suellen Floricultura - Multipurpose React Nextjs eCommerce Template",
+  title: "Product Fixed Scroll || Gaby Floricultura - Multipurpose React Nextjs eCommerce Template",
+  description: "Gaby Floricultura - Multipurpose React Nextjs eCommerce Template",
 };
 
 export default async function page({ params }) {
