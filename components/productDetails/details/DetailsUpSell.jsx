@@ -188,7 +188,7 @@ export default function DetailsUpSell({ product }) {
                             </div>
                             <div className="line-bt" />
                             <div>
-                              <h6>Fashion Suellen Floricultura</h6>
+                              <h6>Fashion Mundo Das Flores</h6>
                               <p>Pickup available. Usually ready in 24 hours</p>
                             </div>
                             <div>
@@ -206,7 +206,7 @@ export default function DetailsUpSell({ product }) {
                       </li>
                       <li>
                         <p className="text-caption-1">Vendor:</p>
-                        <p className="text-caption-1 text-1">Suellen Floricultura</p>
+                        <p className="text-caption-1 text-1">Mundo Das Flores</p>
                       </li>
                       <li>
                         <p className="text-caption-1">Available:</p>

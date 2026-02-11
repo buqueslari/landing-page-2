@@ -122,7 +122,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        {/* Suellen Floricultura Manager Script */}
+        {/* Mundo Das Flores Manager Script */}
         <Script
           strategy="afterInteractive"
           src="https://www.googletagmanager.com/gtag/js?id=AW-17899645764"

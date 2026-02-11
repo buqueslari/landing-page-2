@@ -5,8 +5,8 @@ import Contact2 from "@/components/otherPages/Contact2";
 import React from "react";
 
 export const metadata = {
-  title: "Contact || Suellen Floricultura - Multipurpose React Nextjs eCommerce Template",
-  description: "Suellen Floricultura - Multipurpose React Nextjs eCommerce Template",
+  title: "Contact || Mundo Das Flores - Multipurpose React Nextjs eCommerce Template",
+  description: "Mundo Das Flores - Multipurpose React Nextjs eCommerce Template",
 };
 
 export default function page() {
